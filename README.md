@@ -4,7 +4,7 @@ Soy **QA Engineer en formación**, actualmente estoy cursando un bootcamp en **T
 Me estoy especializando en **pruebas manuales y automatizadas**, trabajando con **Python, Selenium, SQL y APIs**.  
 Me apasiona la tecnología, el aprendizaje constante y crear soluciones de calidad.  
 
-📩 Contáctame en: <a href="mailto:benjavtqa@gmail.com">benjavtqa@gmail.com</a>  
+📩 Contáctame en: <a href="mailto:benjamin.vera.toledo@gmail.com">benjamin.vera.toledo@gmail.com</a>  
 
 ---
 
@@ -12,10 +12,6 @@ Me apasiona la tecnología, el aprendizaje constante y crear soluciones de calid
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
   Estudios
 </h2>
-
-**Ingeniería de Software** <br/>
-🎓 Universidad (en curso) <br/>
-⏳ Actualmente estudiando.  
 
 **Bootcamp QA Engineer – TripleTen** <br/>
 ✅ Testing manual y automatizado, API, SQL, Selenium WebDriver <br/>  
