@@ -43,6 +43,11 @@ Me apasiona la tecnología, el aprendizaje constante y crear soluciones de calid
   <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white">
 </span>
 
+<h4>Bases de Datos</h4>
+<span>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</span>
+
 ---
 
 <h4> Redes y Contacto</h4>
