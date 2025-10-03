@@ -75,12 +75,12 @@ Me apasiona la tecnología, el aprendizaje constante y crear soluciones de calid
 
 ---
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">  Estadísticas de GitHub:</h2>  
+<p align="center">
+  <a href="https://github.com/senesh-akm">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Benjamin-vera-QA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=benjavt&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Benjamín" height="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjavt&theme=material-palenight" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjavt&layout=compact&theme=tokyonight&hide_border=false" height="250" />
-</div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-vera-QA&theme=dark&hide_border=true"/>
+</p>
 
